@@ -1,10 +1,10 @@
 # UJIAN AKHIR SEMESTER GENAP 2020/2021
 # PEMROGRAMAN WEB
 
-- Nama : Purwanto
-- NIM : 311910173
-- Kelas : TI.19.B2
-- Link demo : https://purwanto.techcelup.com/
+- Nama : SANDI PRASTIYO
+- NIM : 311910201
+- Kelas : TI.19.C1
+- Link demo : https://platzsnow.my.id/
 
 
 ## Aplikasi Sederhana Kas RT Berbasis Codeigniter 4
@@ -127,10 +127,4 @@ Kemudian edit line `public $baseURL = 'http://localhost:8080/';` Menjadi `public
 - Edit file index.php yang ada di folder public subdomain atau domain.
 - Kemudian edit line `$pathsConfig = FCPATH . '../app/Config/Paths.php';` menjadi `$pathsConfig = FCPATH . '../ci4/app/Config/Paths.php';`
 
-#### Website sudah online
-Setelah semua langkah di atas sudah di lakukan maka website sudah berhasil online.
 
-### Penutup
-Demikian laporan pembuatan aplikasi sederhana kas RT berbasis Codeigniter 4.
-
-Terima Kasih
